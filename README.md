@@ -1,18 +1,16 @@
+## Content
+This repo is the front-end of the application. It is developped in React.js
+Check the other repo for the Solidity smart-contract code
+
+## App Features
+* connect with your wallet
+* IMPORTANT: connect to the Rinkeby Ethereum test network
+* Mint an NFT. The NFT is cool 3-words Random square
+* check-it on Opensea.io
+
+
 ## Try the app
 https://nfp-project.binucci04.repl.co
 
 
 
-## Running React on Repl.it
-
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
-
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
